@@ -1,10 +1,6 @@
 # Blinkit-PowerBI-Report
 # Blinkit-Project
 
-https://github.com/user-attachments/assets/7d20622b-24dd-47b7-8818-5094dc833a1b
-
-
-
 🚀 Blinkit Data Analysis Dashboard
 India’s No.1 Last Minute App — Power BI Project
 📘 Project Overview
