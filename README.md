@@ -11,7 +11,7 @@ It offers analytical comparisons and visual storytelling across multiple domains
 
 🎯 Objective
 
-To design a comprehensive data visualization tool that enables stakeholders to:
+To help stakeholders to:
 
 Compare year-over-year performance.
 
